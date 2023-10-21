@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/freeFer2-ghPages/static/css/main.eaccbeb9.css",
-    "main.js": "/freeFer2-ghPages/static/js/main.f2364792.js",
+    "main.css": "/freeFer2-ghPages/static/css/main.67882ced.css",
+    "main.js": "/freeFer2-ghPages/static/js/main.4ece8c71.js",
     "index.html": "/freeFer2-ghPages/index.html",
-    "main.eaccbeb9.css.map": "/freeFer2-ghPages/static/css/main.eaccbeb9.css.map",
-    "main.f2364792.js.map": "/freeFer2-ghPages/static/js/main.f2364792.js.map"
+    "main.67882ced.css.map": "/freeFer2-ghPages/static/css/main.67882ced.css.map",
+    "main.4ece8c71.js.map": "/freeFer2-ghPages/static/js/main.4ece8c71.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaccbeb9.css",
-    "static/js/main.f2364792.js"
+    "static/css/main.67882ced.css",
+    "static/js/main.4ece8c71.js"
   ]
 }
