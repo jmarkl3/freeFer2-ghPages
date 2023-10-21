@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/freeFer2-ghPages/static/css/main.5a564f9b.css",
-    "main.js": "/freeFer2-ghPages/static/js/main.723a7c4d.js",
+    "main.css": "/freeFer2-ghPages/static/css/main.9602abdc.css",
+    "main.js": "/freeFer2-ghPages/static/js/main.259e2e67.js",
     "static/media/bannerVideo.mp4": "/freeFer2-ghPages/static/media/bannerVideo.2c83f048491cd1fc719f.mp4",
     "static/media/ladyWithPicture.jpg": "/freeFer2-ghPages/static/media/ladyWithPicture.3d9ccd7ed6180242ba77.jpg",
+    "static/media/EandS.png": "/freeFer2-ghPages/static/media/EandS.08f6b973a64e3df13e79.png",
+    "static/media/2Ladies.jpg": "/freeFer2-ghPages/static/media/2Ladies.15308f7f3a036dd279b6.jpg",
+    "static/media/petriDish.jpg": "/freeFer2-ghPages/static/media/petriDish.feaa96352d592701865c.jpg",
     "static/media/bannerImageBeforeVideo.jpg": "/freeFer2-ghPages/static/media/bannerImageBeforeVideo.4721901f06a022016bee.jpg",
     "static/media/butterflyPurple.jpg": "/freeFer2-ghPages/static/media/butterflyPurple.7815378ab529a87f39ba.jpg",
     "static/media/butterflyOrange.jpg": "/freeFer2-ghPages/static/media/butterflyOrange.231f8469a856f832d9c7.jpg",
     "index.html": "/freeFer2-ghPages/index.html",
-    "main.5a564f9b.css.map": "/freeFer2-ghPages/static/css/main.5a564f9b.css.map",
-    "main.723a7c4d.js.map": "/freeFer2-ghPages/static/js/main.723a7c4d.js.map"
+    "main.9602abdc.css.map": "/freeFer2-ghPages/static/css/main.9602abdc.css.map",
+    "main.259e2e67.js.map": "/freeFer2-ghPages/static/js/main.259e2e67.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a564f9b.css",
-    "static/js/main.723a7c4d.js"
+    "static/css/main.9602abdc.css",
+    "static/js/main.259e2e67.js"
   ]
 }
