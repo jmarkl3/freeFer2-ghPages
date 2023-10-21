@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/freeFer2-ghPages/static/css/main.4c149493.css",
+    "main.js": "/freeFer2-ghPages/static/js/main.40a3282a.js",
+    "index.html": "/freeFer2-ghPages/index.html",
+    "main.4c149493.css.map": "/freeFer2-ghPages/static/css/main.4c149493.css.map",
+    "main.40a3282a.js.map": "/freeFer2-ghPages/static/js/main.40a3282a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c149493.css",
+    "static/js/main.40a3282a.js"
+  ]
+}
