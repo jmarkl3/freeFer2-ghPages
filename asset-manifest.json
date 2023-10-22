@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/freeFer2-ghPages/static/css/main.e81c0217.css",
-    "main.js": "/freeFer2-ghPages/static/js/main.9edb052e.js",
+    "main.css": "/freeFer2-ghPages/static/css/main.64ef6336.css",
+    "main.js": "/freeFer2-ghPages/static/js/main.64014a82.js",
     "static/media/bannerVideo.mp4": "/freeFer2-ghPages/static/media/bannerVideo.2c83f048491cd1fc719f.mp4",
     "static/media/ladyWithPicture.jpg": "/freeFer2-ghPages/static/media/ladyWithPicture.3d9ccd7ed6180242ba77.jpg",
     "static/media/EandS.png": "/freeFer2-ghPages/static/media/EandS.08f6b973a64e3df13e79.png",
@@ -31,11 +31,11 @@
     "static/media/chatIconBlue.png": "/freeFer2-ghPages/static/media/chatIconBlue.dfb479dcf12078525284.png",
     "static/media/sortIconBlue.png": "/freeFer2-ghPages/static/media/sortIconBlue.04b6bf3b4187dd892b16.png",
     "index.html": "/freeFer2-ghPages/index.html",
-    "main.e81c0217.css.map": "/freeFer2-ghPages/static/css/main.e81c0217.css.map",
-    "main.9edb052e.js.map": "/freeFer2-ghPages/static/js/main.9edb052e.js.map"
+    "main.64ef6336.css.map": "/freeFer2-ghPages/static/css/main.64ef6336.css.map",
+    "main.64014a82.js.map": "/freeFer2-ghPages/static/js/main.64014a82.js.map"
   },
   "entrypoints": [
-    "static/css/main.e81c0217.css",
-    "static/js/main.9edb052e.js"
+    "static/css/main.64ef6336.css",
+    "static/js/main.64014a82.js"
   ]
 }
