@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/freeFer2-ghPages/static/css/main.0d0fd0d9.css",
-    "main.js": "/freeFer2-ghPages/static/js/main.2da12ba5.js",
+    "main.css": "/freeFer2-ghPages/static/css/main.7d602a4f.css",
+    "main.js": "/freeFer2-ghPages/static/js/main.eb9a5803.js",
     "static/media/bannerVideo.mp4": "/freeFer2-ghPages/static/media/bannerVideo.2c83f048491cd1fc719f.mp4",
     "static/media/ladyWithPicture.jpg": "/freeFer2-ghPages/static/media/ladyWithPicture.3d9ccd7ed6180242ba77.jpg",
     "static/media/EandS.png": "/freeFer2-ghPages/static/media/EandS.08f6b973a64e3df13e79.png",
@@ -14,23 +14,28 @@
     "static/media/butterflyOrange.jpg": "/freeFer2-ghPages/static/media/butterflyOrange.231f8469a856f832d9c7.jpg",
     "static/media/accountIconBlue.png": "/freeFer2-ghPages/static/media/accountIconBlue.8e3b43b1116ad03d143e.png",
     "static/media/accountIconInverted.png": "/freeFer2-ghPages/static/media/accountIconInverted.c0cd58f618c6aa30d307.png",
+    "static/media/minimizeIconBlue.png": "/freeFer2-ghPages/static/media/minimizeIconBlue.c88eb96996098a96b613.png",
     "static/media/eyeIconBlue.png": "/freeFer2-ghPages/static/media/eyeIconBlue.3984fd6745e6f6c2094a.png",
     "static/media/locationIconBlue.png": "/freeFer2-ghPages/static/media/locationIconBlue.cf1378b0cd4e96d512a1.png",
+    "static/media/smileIconBlue.png": "/freeFer2-ghPages/static/media/smileIconBlue.a37d440521914e444891.png",
+    "static/media/editIconSW.png": "/freeFer2-ghPages/static/media/editIconSW.3aaf1d15399aa57d3a2b.png",
     "static/media/idIconBlue.png": "/freeFer2-ghPages/static/media/idIconBlue.2265ddfb7d1631680b12.png",
+    "static/media/sendIconBlue.png": "/freeFer2-ghPages/static/media/sendIconBlue.44e0f418907ac5feeaa0.png",
     "static/media/editIconBlue.png": "/freeFer2-ghPages/static/media/editIconBlue.841d1a5acd2fba2fbc59.png",
     "static/media/hairIconsBlue.png": "/freeFer2-ghPages/static/media/hairIconsBlue.4fb43c3083875aa4a36f.png",
     "static/media/searchIconInverted.png": "/freeFer2-ghPages/static/media/searchIconInverted.0c8e6126567c5dd10422.png",
     "static/media/chatIconInverted.png": "/freeFer2-ghPages/static/media/chatIconInverted.9e9472de085d25446082.png",
+    "static/media/openInWindowIconBlue.png": "/freeFer2-ghPages/static/media/openInWindowIconBlue.6398ade1d1b500e6c4b0.png",
     "static/media/filterIconBlue.png": "/freeFer2-ghPages/static/media/filterIconBlue.acd3d3cac4f960ca71c0.png",
     "static/media/calendarAgeIconBlue.png": "/freeFer2-ghPages/static/media/calendarAgeIconBlue.84d11e27620121711b54.png",
     "static/media/chatIconBlue.png": "/freeFer2-ghPages/static/media/chatIconBlue.dfb479dcf12078525284.png",
     "static/media/sortIconBlue.png": "/freeFer2-ghPages/static/media/sortIconBlue.04b6bf3b4187dd892b16.png",
     "index.html": "/freeFer2-ghPages/index.html",
-    "main.0d0fd0d9.css.map": "/freeFer2-ghPages/static/css/main.0d0fd0d9.css.map",
-    "main.2da12ba5.js.map": "/freeFer2-ghPages/static/js/main.2da12ba5.js.map"
+    "main.7d602a4f.css.map": "/freeFer2-ghPages/static/css/main.7d602a4f.css.map",
+    "main.eb9a5803.js.map": "/freeFer2-ghPages/static/js/main.eb9a5803.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d0fd0d9.css",
-    "static/js/main.2da12ba5.js"
+    "static/css/main.7d602a4f.css",
+    "static/js/main.eb9a5803.js"
   ]
 }
