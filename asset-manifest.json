@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/freeFer2-ghPages/static/css/main.543a888b.css",
+    "main.css": "/freeFer2-ghPages/static/css/main.467ebc68.css",
     "main.js": "/freeFer2-ghPages/static/js/main.7dd6d08f.js",
     "static/media/bannerVideo.mp4": "/freeFer2-ghPages/static/media/bannerVideo.2c83f048491cd1fc719f.mp4",
     "static/media/ladyWithPicture.jpg": "/freeFer2-ghPages/static/media/ladyWithPicture.3d9ccd7ed6180242ba77.jpg",
@@ -20,11 +20,11 @@
     "static/media/calendarAgeIconBlue.png": "/freeFer2-ghPages/static/media/calendarAgeIconBlue.84d11e27620121711b54.png",
     "static/media/sortIconBlue.png": "/freeFer2-ghPages/static/media/sortIconBlue.04b6bf3b4187dd892b16.png",
     "index.html": "/freeFer2-ghPages/index.html",
-    "main.543a888b.css.map": "/freeFer2-ghPages/static/css/main.543a888b.css.map",
+    "main.467ebc68.css.map": "/freeFer2-ghPages/static/css/main.467ebc68.css.map",
     "main.7dd6d08f.js.map": "/freeFer2-ghPages/static/js/main.7dd6d08f.js.map"
   },
   "entrypoints": [
-    "static/css/main.543a888b.css",
+    "static/css/main.467ebc68.css",
     "static/js/main.7dd6d08f.js"
   ]
 }
