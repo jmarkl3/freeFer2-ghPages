@@ -1,21 +1,30 @@
 {
   "files": {
-    "main.css": "/freeFer2-ghPages/static/css/main.9602abdc.css",
-    "main.js": "/freeFer2-ghPages/static/js/main.259e2e67.js",
+    "main.css": "/freeFer2-ghPages/static/css/main.94808c5c.css",
+    "main.js": "/freeFer2-ghPages/static/js/main.5a0fba64.js",
     "static/media/bannerVideo.mp4": "/freeFer2-ghPages/static/media/bannerVideo.2c83f048491cd1fc719f.mp4",
     "static/media/ladyWithPicture.jpg": "/freeFer2-ghPages/static/media/ladyWithPicture.3d9ccd7ed6180242ba77.jpg",
     "static/media/EandS.png": "/freeFer2-ghPages/static/media/EandS.08f6b973a64e3df13e79.png",
     "static/media/2Ladies.jpg": "/freeFer2-ghPages/static/media/2Ladies.15308f7f3a036dd279b6.jpg",
     "static/media/petriDish.jpg": "/freeFer2-ghPages/static/media/petriDish.feaa96352d592701865c.jpg",
+    "static/media/heightIconBlue.png": "/freeFer2-ghPages/static/media/heightIconBlue.91fdd74ec289ef60f1af.png",
     "static/media/bannerImageBeforeVideo.jpg": "/freeFer2-ghPages/static/media/bannerImageBeforeVideo.4721901f06a022016bee.jpg",
     "static/media/butterflyPurple.jpg": "/freeFer2-ghPages/static/media/butterflyPurple.7815378ab529a87f39ba.jpg",
     "static/media/butterflyOrange.jpg": "/freeFer2-ghPages/static/media/butterflyOrange.231f8469a856f832d9c7.jpg",
+    "static/media/accountIconBlue.png": "/freeFer2-ghPages/static/media/accountIconBlue.8e3b43b1116ad03d143e.png",
+    "static/media/eyeIconBlue.png": "/freeFer2-ghPages/static/media/eyeIconBlue.3984fd6745e6f6c2094a.png",
+    "static/media/locationIconBlue.png": "/freeFer2-ghPages/static/media/locationIconBlue.cf1378b0cd4e96d512a1.png",
+    "static/media/idIconBlue.png": "/freeFer2-ghPages/static/media/idIconBlue.2265ddfb7d1631680b12.png",
+    "static/media/hairIconsBlue.png": "/freeFer2-ghPages/static/media/hairIconsBlue.4fb43c3083875aa4a36f.png",
+    "static/media/filterIconBlue.png": "/freeFer2-ghPages/static/media/filterIconBlue.acd3d3cac4f960ca71c0.png",
+    "static/media/calendarAgeIconBlue.png": "/freeFer2-ghPages/static/media/calendarAgeIconBlue.84d11e27620121711b54.png",
+    "static/media/sortIconBlue.png": "/freeFer2-ghPages/static/media/sortIconBlue.04b6bf3b4187dd892b16.png",
     "index.html": "/freeFer2-ghPages/index.html",
-    "main.9602abdc.css.map": "/freeFer2-ghPages/static/css/main.9602abdc.css.map",
-    "main.259e2e67.js.map": "/freeFer2-ghPages/static/js/main.259e2e67.js.map"
+    "main.94808c5c.css.map": "/freeFer2-ghPages/static/css/main.94808c5c.css.map",
+    "main.5a0fba64.js.map": "/freeFer2-ghPages/static/js/main.5a0fba64.js.map"
   },
   "entrypoints": [
-    "static/css/main.9602abdc.css",
-    "static/js/main.259e2e67.js"
+    "static/css/main.94808c5c.css",
+    "static/js/main.5a0fba64.js"
   ]
 }
