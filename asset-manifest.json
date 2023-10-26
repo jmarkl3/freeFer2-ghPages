@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/freeFer2-ghPages/static/css/main.b6d38eda.css",
-    "main.js": "/freeFer2-ghPages/static/js/main.d0773bd0.js",
+    "main.css": "/freeFer2-ghPages/static/css/main.d1c78138.css",
+    "main.js": "/freeFer2-ghPages/static/js/main.41a44d64.js",
     "static/media/bannerVideo.mp4": "/freeFer2-ghPages/static/media/bannerVideo.2c83f048491cd1fc719f.mp4",
     "static/media/ladyWithPicture.jpg": "/freeFer2-ghPages/static/media/ladyWithPicture.3d9ccd7ed6180242ba77.jpg",
     "static/media/EandS.png": "/freeFer2-ghPages/static/media/EandS.08f6b973a64e3df13e79.png",
@@ -27,16 +27,20 @@
     "static/media/searchIconInverted.png": "/freeFer2-ghPages/static/media/searchIconInverted.0c8e6126567c5dd10422.png",
     "static/media/chatIconInverted.png": "/freeFer2-ghPages/static/media/chatIconInverted.9e9472de085d25446082.png",
     "static/media/openInWindowIconBlue.png": "/freeFer2-ghPages/static/media/openInWindowIconBlue.6398ade1d1b500e6c4b0.png",
+    "static/media/closePaneIconBlue.png": "/freeFer2-ghPages/static/media/closePaneIconBlue.0778f10d28fde77e30ba.png",
     "static/media/filterIconBlue.png": "/freeFer2-ghPages/static/media/filterIconBlue.acd3d3cac4f960ca71c0.png",
     "static/media/calendarAgeIconBlue.png": "/freeFer2-ghPages/static/media/calendarAgeIconBlue.84d11e27620121711b54.png",
     "static/media/chatIconBlue.png": "/freeFer2-ghPages/static/media/chatIconBlue.dfb479dcf12078525284.png",
     "static/media/sortIconBlue.png": "/freeFer2-ghPages/static/media/sortIconBlue.04b6bf3b4187dd892b16.png",
+    "static/media/closePaneIconLeftBlue.png": "/freeFer2-ghPages/static/media/closePaneIconLeftBlue.963f093fbdc549bcaebb.png",
+    "static/media/openPaneIconLeftBlue.png": "/freeFer2-ghPages/static/media/openPaneIconLeftBlue.4ba0bff45ba65fd4b3c4.png",
+    "static/media/openPaneIconBlue.png": "/freeFer2-ghPages/static/media/openPaneIconBlue.f49f71f0e8eb4803e559.png",
     "index.html": "/freeFer2-ghPages/index.html",
-    "main.b6d38eda.css.map": "/freeFer2-ghPages/static/css/main.b6d38eda.css.map",
-    "main.d0773bd0.js.map": "/freeFer2-ghPages/static/js/main.d0773bd0.js.map"
+    "main.d1c78138.css.map": "/freeFer2-ghPages/static/css/main.d1c78138.css.map",
+    "main.41a44d64.js.map": "/freeFer2-ghPages/static/js/main.41a44d64.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6d38eda.css",
-    "static/js/main.d0773bd0.js"
+    "static/css/main.d1c78138.css",
+    "static/js/main.41a44d64.js"
   ]
 }
