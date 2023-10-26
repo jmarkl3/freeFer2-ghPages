@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/freeFer2-ghPages/static/css/main.d1c78138.css",
-    "main.js": "/freeFer2-ghPages/static/js/main.41a44d64.js",
+    "main.css": "/freeFer2-ghPages/static/css/main.729c04cc.css",
+    "main.js": "/freeFer2-ghPages/static/js/main.ad12a0c3.js",
     "static/media/bannerVideo.mp4": "/freeFer2-ghPages/static/media/bannerVideo.2c83f048491cd1fc719f.mp4",
     "static/media/ladyWithPicture.jpg": "/freeFer2-ghPages/static/media/ladyWithPicture.3d9ccd7ed6180242ba77.jpg",
     "static/media/EandS.png": "/freeFer2-ghPages/static/media/EandS.08f6b973a64e3df13e79.png",
@@ -15,6 +15,7 @@
     "static/media/butterflyOrange.jpg": "/freeFer2-ghPages/static/media/butterflyOrange.231f8469a856f832d9c7.jpg",
     "static/media/accountIconBlue.png": "/freeFer2-ghPages/static/media/accountIconBlue.8e3b43b1116ad03d143e.png",
     "static/media/accountIconInverted.png": "/freeFer2-ghPages/static/media/accountIconInverted.c0cd58f618c6aa30d307.png",
+    "static/media/settingsIconS.png": "/freeFer2-ghPages/static/media/settingsIconS.4927c14c5a7f391bb098.png",
     "static/media/minimizeIconBlue.png": "/freeFer2-ghPages/static/media/minimizeIconBlue.c88eb96996098a96b613.png",
     "static/media/eyeIconBlue.png": "/freeFer2-ghPages/static/media/eyeIconBlue.3984fd6745e6f6c2094a.png",
     "static/media/locationIconBlue.png": "/freeFer2-ghPages/static/media/locationIconBlue.cf1378b0cd4e96d512a1.png",
@@ -36,11 +37,11 @@
     "static/media/openPaneIconLeftBlue.png": "/freeFer2-ghPages/static/media/openPaneIconLeftBlue.4ba0bff45ba65fd4b3c4.png",
     "static/media/openPaneIconBlue.png": "/freeFer2-ghPages/static/media/openPaneIconBlue.f49f71f0e8eb4803e559.png",
     "index.html": "/freeFer2-ghPages/index.html",
-    "main.d1c78138.css.map": "/freeFer2-ghPages/static/css/main.d1c78138.css.map",
-    "main.41a44d64.js.map": "/freeFer2-ghPages/static/js/main.41a44d64.js.map"
+    "main.729c04cc.css.map": "/freeFer2-ghPages/static/css/main.729c04cc.css.map",
+    "main.ad12a0c3.js.map": "/freeFer2-ghPages/static/js/main.ad12a0c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1c78138.css",
-    "static/js/main.41a44d64.js"
+    "static/css/main.729c04cc.css",
+    "static/js/main.ad12a0c3.js"
   ]
 }
