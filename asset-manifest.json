@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/freeFer2-ghPages/static/css/main.729c04cc.css",
-    "main.js": "/freeFer2-ghPages/static/js/main.ad12a0c3.js",
+    "main.css": "/freeFer2-ghPages/static/css/main.7d3ee8cb.css",
+    "main.js": "/freeFer2-ghPages/static/js/main.f3c81438.js",
     "static/media/bannerVideo.mp4": "/freeFer2-ghPages/static/media/bannerVideo.2c83f048491cd1fc719f.mp4",
     "static/media/ladyWithPicture.jpg": "/freeFer2-ghPages/static/media/ladyWithPicture.3d9ccd7ed6180242ba77.jpg",
     "static/media/EandS.png": "/freeFer2-ghPages/static/media/EandS.08f6b973a64e3df13e79.png",
     "static/media/2Ladies.jpg": "/freeFer2-ghPages/static/media/2Ladies.15308f7f3a036dd279b6.jpg",
     "static/media/petriDish.jpg": "/freeFer2-ghPages/static/media/petriDish.feaa96352d592701865c.jpg",
     "static/media/menuIconInverted.png": "/freeFer2-ghPages/static/media/menuIconInverted.60c46fb2ab3d75375abb.png",
+    "static/media/menu icon 2 blue.png": "/freeFer2-ghPages/static/media/menu icon 2 blue.2c76ab8d2c6820b937e7.png",
     "static/media/heightIconBlue.png": "/freeFer2-ghPages/static/media/heightIconBlue.91fdd74ec289ef60f1af.png",
     "static/media/bannerImageBeforeVideo.jpg": "/freeFer2-ghPages/static/media/bannerImageBeforeVideo.4721901f06a022016bee.jpg",
     "static/media/discordNotification.mp3": "/freeFer2-ghPages/static/media/discordNotification.b70a22df3d3f7448f53a.mp3",
@@ -37,11 +38,11 @@
     "static/media/openPaneIconLeftBlue.png": "/freeFer2-ghPages/static/media/openPaneIconLeftBlue.4ba0bff45ba65fd4b3c4.png",
     "static/media/openPaneIconBlue.png": "/freeFer2-ghPages/static/media/openPaneIconBlue.f49f71f0e8eb4803e559.png",
     "index.html": "/freeFer2-ghPages/index.html",
-    "main.729c04cc.css.map": "/freeFer2-ghPages/static/css/main.729c04cc.css.map",
-    "main.ad12a0c3.js.map": "/freeFer2-ghPages/static/js/main.ad12a0c3.js.map"
+    "main.7d3ee8cb.css.map": "/freeFer2-ghPages/static/css/main.7d3ee8cb.css.map",
+    "main.f3c81438.js.map": "/freeFer2-ghPages/static/js/main.f3c81438.js.map"
   },
   "entrypoints": [
-    "static/css/main.729c04cc.css",
-    "static/js/main.ad12a0c3.js"
+    "static/css/main.7d3ee8cb.css",
+    "static/js/main.f3c81438.js"
   ]
 }
