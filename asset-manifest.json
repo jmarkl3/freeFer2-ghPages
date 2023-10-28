@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/freeFer2-ghPages/static/css/main.6ed3056d.css",
-    "main.js": "/freeFer2-ghPages/static/js/main.4d6a1148.js",
+    "main.js": "/freeFer2-ghPages/static/js/main.aca832a1.js",
     "static/media/bannerVideo.mp4": "/freeFer2-ghPages/static/media/bannerVideo.2c83f048491cd1fc719f.mp4",
     "static/media/ladyWithPicture.jpg": "/freeFer2-ghPages/static/media/ladyWithPicture.3d9ccd7ed6180242ba77.jpg",
     "static/media/EandS.png": "/freeFer2-ghPages/static/media/EandS.08f6b973a64e3df13e79.png",
@@ -39,10 +39,10 @@
     "static/media/openPaneIconBlue.png": "/freeFer2-ghPages/static/media/openPaneIconBlue.f49f71f0e8eb4803e559.png",
     "index.html": "/freeFer2-ghPages/index.html",
     "main.6ed3056d.css.map": "/freeFer2-ghPages/static/css/main.6ed3056d.css.map",
-    "main.4d6a1148.js.map": "/freeFer2-ghPages/static/js/main.4d6a1148.js.map"
+    "main.aca832a1.js.map": "/freeFer2-ghPages/static/js/main.aca832a1.js.map"
   },
   "entrypoints": [
     "static/css/main.6ed3056d.css",
-    "static/js/main.4d6a1148.js"
+    "static/js/main.aca832a1.js"
   ]
 }
